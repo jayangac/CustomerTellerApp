@@ -1,0 +1,346 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\D\\SingaDemo\\ReactAsp.NetCoreWebAPIApp-master\\ReactAsp.NetCoreWebAPIApp.Business\\ReactAsp.NetCoreWebAPIApp.Business.csproj": {}
+  },
+  "projects": {
+    "C:\\D\\SingaDemo\\ReactAsp.NetCoreWebAPIApp-master\\ReactAsp.NetCoreWebAPIApp.Business\\ReactAsp.NetCoreWebAPIApp.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\D\\SingaDemo\\ReactAsp.NetCoreWebAPIApp-master\\ReactAsp.NetCoreWebAPIApp.Business\\ReactAsp.NetCoreWebAPIApp.Business.csproj",
+        "projectName": "ReactAsp.NetCoreWebAPIApp.Business",
+        "projectPath": "C:\\D\\SingaDemo\\ReactAsp.NetCoreWebAPIApp-master\\ReactAsp.NetCoreWebAPIApp.Business\\ReactAsp.NetCoreWebAPIApp.Business.csproj",
+        "packagesPath": "C:\\Users\\jaych\\.nuget\\packages\\",
+        "outputPath": "C:\\D\\SingaDemo\\ReactAsp.NetCoreWebAPIApp-master\\ReactAsp.NetCoreWebAPIApp.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jaych\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\D\\SingaDemo\\ReactAsp.NetCoreWebAPIApp-master\\ReactAsp.NetCoreWebAPIApp.Core\\ReactAsp.NetCoreWebAPIApp.Core.csproj": {
+                "projectPath": "C:\\D\\SingaDemo\\ReactAsp.NetCoreWebAPIApp-master\\ReactAsp.NetCoreWebAPIApp.Core\\ReactAsp.NetCoreWebAPIApp.Core.csproj"
+              },
+              "C:\\D\\SingaDemo\\ReactAsp.NetCoreWebAPIApp-master\\ReactAsp.NetCoreWebAPIApp.Data\\ReactAsp.NetCoreWebAPIApp.Data.csproj": {
+                "projectPath": "C:\\D\\SingaDemo\\ReactAsp.NetCoreWebAPIApp-master\\ReactAsp.NetCoreWebAPIApp.Data\\ReactAsp.NetCoreWebAPIApp.Data.csproj"
+              },
+              "C:\\D\\SingaDemo\\ReactAsp.NetCoreWebAPIApp-master\\ReactAsp.NetCoreWebAPIApp.Model\\ReactAsp.NetCoreWebAPIApp.Model.csproj": {
+                "projectPath": "C:\\D\\SingaDemo\\ReactAsp.NetCoreWebAPIApp-master\\ReactAsp.NetCoreWebAPIApp.Model\\ReactAsp.NetCoreWebAPIApp.Model.csproj"
+              },
+              "C:\\D\\SingaDemo\\ReactAsp.NetCoreWebAPIApp-master\\ReactAsp.NetCoreWebAPIApp.Repository\\ReactAsp.NetCoreWebAPIApp.Repository.csproj": {
+                "projectPath": "C:\\D\\SingaDemo\\ReactAsp.NetCoreWebAPIApp-master\\ReactAsp.NetCoreWebAPIApp.Repository\\ReactAsp.NetCoreWebAPIApp.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Realm": {
+              "target": "Package",
+              "version": "[10.11.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\D\\SingaDemo\\ReactAsp.NetCoreWebAPIApp-master\\ReactAsp.NetCoreWebAPIApp.Core\\ReactAsp.NetCoreWebAPIApp.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\D\\SingaDemo\\ReactAsp.NetCoreWebAPIApp-master\\ReactAsp.NetCoreWebAPIApp.Core\\ReactAsp.NetCoreWebAPIApp.Core.csproj",
+        "projectName": "ReactAsp.NetCoreWebAPIApp.Core",
+        "projectPath": "C:\\D\\SingaDemo\\ReactAsp.NetCoreWebAPIApp-master\\ReactAsp.NetCoreWebAPIApp.Core\\ReactAsp.NetCoreWebAPIApp.Core.csproj",
+        "packagesPath": "C:\\Users\\jaych\\.nuget\\packages\\",
+        "outputPath": "C:\\D\\SingaDemo\\ReactAsp.NetCoreWebAPIApp-master\\ReactAsp.NetCoreWebAPIApp.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jaych\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\D\\SingaDemo\\ReactAsp.NetCoreWebAPIApp-master\\ReactAsp.NetCoreWebAPIApp.Data\\ReactAsp.NetCoreWebAPIApp.Data.csproj": {
+                "projectPath": "C:\\D\\SingaDemo\\ReactAsp.NetCoreWebAPIApp-master\\ReactAsp.NetCoreWebAPIApp.Data\\ReactAsp.NetCoreWebAPIApp.Data.csproj"
+              },
+              "C:\\D\\SingaDemo\\ReactAsp.NetCoreWebAPIApp-master\\ReactAsp.NetCoreWebAPIApp.Model\\ReactAsp.NetCoreWebAPIApp.Model.csproj": {
+                "projectPath": "C:\\D\\SingaDemo\\ReactAsp.NetCoreWebAPIApp-master\\ReactAsp.NetCoreWebAPIApp.Model\\ReactAsp.NetCoreWebAPIApp.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[10.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\D\\SingaDemo\\ReactAsp.NetCoreWebAPIApp-master\\ReactAsp.NetCoreWebAPIApp.Data\\ReactAsp.NetCoreWebAPIApp.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\D\\SingaDemo\\ReactAsp.NetCoreWebAPIApp-master\\ReactAsp.NetCoreWebAPIApp.Data\\ReactAsp.NetCoreWebAPIApp.Data.csproj",
+        "projectName": "ReactAsp.NetCoreWebAPIApp.Data",
+        "projectPath": "C:\\D\\SingaDemo\\ReactAsp.NetCoreWebAPIApp-master\\ReactAsp.NetCoreWebAPIApp.Data\\ReactAsp.NetCoreWebAPIApp.Data.csproj",
+        "packagesPath": "C:\\Users\\jaych\\.nuget\\packages\\",
+        "outputPath": "C:\\D\\SingaDemo\\ReactAsp.NetCoreWebAPIApp-master\\ReactAsp.NetCoreWebAPIApp.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jaych\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\D\\SingaDemo\\ReactAsp.NetCoreWebAPIApp-master\\ReactAsp.NetCoreWebAPIApp.Model\\ReactAsp.NetCoreWebAPIApp.Model.csproj": {
+                "projectPath": "C:\\D\\SingaDemo\\ReactAsp.NetCoreWebAPIApp-master\\ReactAsp.NetCoreWebAPIApp.Model\\ReactAsp.NetCoreWebAPIApp.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\D\\SingaDemo\\ReactAsp.NetCoreWebAPIApp-master\\ReactAsp.NetCoreWebAPIApp.Model\\ReactAsp.NetCoreWebAPIApp.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\D\\SingaDemo\\ReactAsp.NetCoreWebAPIApp-master\\ReactAsp.NetCoreWebAPIApp.Model\\ReactAsp.NetCoreWebAPIApp.Model.csproj",
+        "projectName": "ReactAsp.NetCoreWebAPIApp.Model",
+        "projectPath": "C:\\D\\SingaDemo\\ReactAsp.NetCoreWebAPIApp-master\\ReactAsp.NetCoreWebAPIApp.Model\\ReactAsp.NetCoreWebAPIApp.Model.csproj",
+        "packagesPath": "C:\\Users\\jaych\\.nuget\\packages\\",
+        "outputPath": "C:\\D\\SingaDemo\\ReactAsp.NetCoreWebAPIApp-master\\ReactAsp.NetCoreWebAPIApp.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jaych\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNet.Mvc": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\D\\SingaDemo\\ReactAsp.NetCoreWebAPIApp-master\\ReactAsp.NetCoreWebAPIApp.Repository\\ReactAsp.NetCoreWebAPIApp.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\D\\SingaDemo\\ReactAsp.NetCoreWebAPIApp-master\\ReactAsp.NetCoreWebAPIApp.Repository\\ReactAsp.NetCoreWebAPIApp.Repository.csproj",
+        "projectName": "ReactAsp.NetCoreWebAPIApp.Repository",
+        "projectPath": "C:\\D\\SingaDemo\\ReactAsp.NetCoreWebAPIApp-master\\ReactAsp.NetCoreWebAPIApp.Repository\\ReactAsp.NetCoreWebAPIApp.Repository.csproj",
+        "packagesPath": "C:\\Users\\jaych\\.nuget\\packages\\",
+        "outputPath": "C:\\D\\SingaDemo\\ReactAsp.NetCoreWebAPIApp-master\\ReactAsp.NetCoreWebAPIApp.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jaych\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\D\\SingaDemo\\ReactAsp.NetCoreWebAPIApp-master\\ReactAsp.NetCoreWebAPIApp.Data\\ReactAsp.NetCoreWebAPIApp.Data.csproj": {
+                "projectPath": "C:\\D\\SingaDemo\\ReactAsp.NetCoreWebAPIApp-master\\ReactAsp.NetCoreWebAPIApp.Data\\ReactAsp.NetCoreWebAPIApp.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

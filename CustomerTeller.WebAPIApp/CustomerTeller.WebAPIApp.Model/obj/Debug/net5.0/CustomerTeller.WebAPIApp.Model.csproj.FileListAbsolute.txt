@@ -1,0 +1,11 @@
+C:\D\SingaDemo\NCS\CustomerTeller.WebAPIApp\CustomerTeller.WebAPIApp.Model\bin\Debug\net5.0\CustomerTeller.WebAPIApp.Model.deps.json
+C:\D\SingaDemo\NCS\CustomerTeller.WebAPIApp\CustomerTeller.WebAPIApp.Model\bin\Debug\net5.0\CustomerTeller.WebAPIApp.Model.dll
+C:\D\SingaDemo\NCS\CustomerTeller.WebAPIApp\CustomerTeller.WebAPIApp.Model\bin\Debug\net5.0\ref\CustomerTeller.WebAPIApp.Model.dll
+C:\D\SingaDemo\NCS\CustomerTeller.WebAPIApp\CustomerTeller.WebAPIApp.Model\bin\Debug\net5.0\CustomerTeller.WebAPIApp.Model.pdb
+C:\D\SingaDemo\NCS\CustomerTeller.WebAPIApp\CustomerTeller.WebAPIApp.Model\obj\Debug\net5.0\CustomerTeller.WebAPIApp.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\D\SingaDemo\NCS\CustomerTeller.WebAPIApp\CustomerTeller.WebAPIApp.Model\obj\Debug\net5.0\CustomerTeller.WebAPIApp.Model.AssemblyInfoInputs.cache
+C:\D\SingaDemo\NCS\CustomerTeller.WebAPIApp\CustomerTeller.WebAPIApp.Model\obj\Debug\net5.0\CustomerTeller.WebAPIApp.Model.AssemblyInfo.cs
+C:\D\SingaDemo\NCS\CustomerTeller.WebAPIApp\CustomerTeller.WebAPIApp.Model\obj\Debug\net5.0\CustomerTeller.WebAPIApp.Model.csproj.CoreCompileInputs.cache
+C:\D\SingaDemo\NCS\CustomerTeller.WebAPIApp\CustomerTeller.WebAPIApp.Model\obj\Debug\net5.0\CustomerTeller.WebAPIApp.Model.dll
+C:\D\SingaDemo\NCS\CustomerTeller.WebAPIApp\CustomerTeller.WebAPIApp.Model\obj\Debug\net5.0\ref\CustomerTeller.WebAPIApp.Model.dll
+C:\D\SingaDemo\NCS\CustomerTeller.WebAPIApp\CustomerTeller.WebAPIApp.Model\obj\Debug\net5.0\CustomerTeller.WebAPIApp.Model.pdb

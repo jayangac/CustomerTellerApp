@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="11.0.1" />
+    <PackageReference Include="FluentValidation" Version="10.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CustomerTeller.WebAPIApp.Data\CustomerTeller.WebAPIApp.Data.csproj" />
+    <ProjectReference Include="..\CustomerTeller.WebAPIApp.Model\CustomerTeller.WebAPIApp.Model.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,15 @@
+C:\D\SingaDemo\NCS\CustomerTeller.WebAPIApp\CustomerTeller.WebAPIApp.Data\bin\Debug\net5.0\CustomerTeller.WebAPIApp.Data.deps.json
+C:\D\SingaDemo\NCS\CustomerTeller.WebAPIApp\CustomerTeller.WebAPIApp.Data\bin\Debug\net5.0\CustomerTeller.WebAPIApp.Data.dll
+C:\D\SingaDemo\NCS\CustomerTeller.WebAPIApp\CustomerTeller.WebAPIApp.Data\bin\Debug\net5.0\ref\CustomerTeller.WebAPIApp.Data.dll
+C:\D\SingaDemo\NCS\CustomerTeller.WebAPIApp\CustomerTeller.WebAPIApp.Data\bin\Debug\net5.0\CustomerTeller.WebAPIApp.Data.pdb
+C:\D\SingaDemo\NCS\CustomerTeller.WebAPIApp\CustomerTeller.WebAPIApp.Data\bin\Debug\net5.0\CustomerTeller.WebAPIApp.Model.dll
+C:\D\SingaDemo\NCS\CustomerTeller.WebAPIApp\CustomerTeller.WebAPIApp.Data\bin\Debug\net5.0\CustomerTeller.WebAPIApp.Model.pdb
+C:\D\SingaDemo\NCS\CustomerTeller.WebAPIApp\CustomerTeller.WebAPIApp.Data\obj\Debug\net5.0\CustomerTeller.WebAPIApp.Data.csproj.AssemblyReference.cache
+C:\D\SingaDemo\NCS\CustomerTeller.WebAPIApp\CustomerTeller.WebAPIApp.Data\obj\Debug\net5.0\CustomerTeller.WebAPIApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\D\SingaDemo\NCS\CustomerTeller.WebAPIApp\CustomerTeller.WebAPIApp.Data\obj\Debug\net5.0\CustomerTeller.WebAPIApp.Data.AssemblyInfoInputs.cache
+C:\D\SingaDemo\NCS\CustomerTeller.WebAPIApp\CustomerTeller.WebAPIApp.Data\obj\Debug\net5.0\CustomerTeller.WebAPIApp.Data.AssemblyInfo.cs
+C:\D\SingaDemo\NCS\CustomerTeller.WebAPIApp\CustomerTeller.WebAPIApp.Data\obj\Debug\net5.0\CustomerTeller.WebAPIApp.Data.csproj.CoreCompileInputs.cache
+C:\D\SingaDemo\NCS\CustomerTeller.WebAPIApp\CustomerTeller.WebAPIApp.Data\obj\Debug\net5.0\CustomerTeller.WebAPIApp.Data.csproj.CopyComplete
+C:\D\SingaDemo\NCS\CustomerTeller.WebAPIApp\CustomerTeller.WebAPIApp.Data\obj\Debug\net5.0\CustomerTeller.WebAPIApp.Data.dll
+C:\D\SingaDemo\NCS\CustomerTeller.WebAPIApp\CustomerTeller.WebAPIApp.Data\obj\Debug\net5.0\ref\CustomerTeller.WebAPIApp.Data.dll
+C:\D\SingaDemo\NCS\CustomerTeller.WebAPIApp\CustomerTeller.WebAPIApp.Data\obj\Debug\net5.0\CustomerTeller.WebAPIApp.Data.pdb

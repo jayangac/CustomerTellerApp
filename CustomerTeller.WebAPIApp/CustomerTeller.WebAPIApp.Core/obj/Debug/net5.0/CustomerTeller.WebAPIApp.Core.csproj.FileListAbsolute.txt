@@ -1,0 +1,17 @@
+C:\D\SingaDemo\NCS\CustomerTeller.WebAPIApp\CustomerTeller.WebAPIApp.Core\bin\Debug\net5.0\CustomerTeller.WebAPIApp.Core.deps.json
+C:\D\SingaDemo\NCS\CustomerTeller.WebAPIApp\CustomerTeller.WebAPIApp.Core\bin\Debug\net5.0\CustomerTeller.WebAPIApp.Core.dll
+C:\D\SingaDemo\NCS\CustomerTeller.WebAPIApp\CustomerTeller.WebAPIApp.Core\bin\Debug\net5.0\ref\CustomerTeller.WebAPIApp.Core.dll
+C:\D\SingaDemo\NCS\CustomerTeller.WebAPIApp\CustomerTeller.WebAPIApp.Core\bin\Debug\net5.0\CustomerTeller.WebAPIApp.Core.pdb
+C:\D\SingaDemo\NCS\CustomerTeller.WebAPIApp\CustomerTeller.WebAPIApp.Core\bin\Debug\net5.0\CustomerTeller.WebAPIApp.Data.dll
+C:\D\SingaDemo\NCS\CustomerTeller.WebAPIApp\CustomerTeller.WebAPIApp.Core\bin\Debug\net5.0\CustomerTeller.WebAPIApp.Model.dll
+C:\D\SingaDemo\NCS\CustomerTeller.WebAPIApp\CustomerTeller.WebAPIApp.Core\bin\Debug\net5.0\CustomerTeller.WebAPIApp.Data.pdb
+C:\D\SingaDemo\NCS\CustomerTeller.WebAPIApp\CustomerTeller.WebAPIApp.Core\bin\Debug\net5.0\CustomerTeller.WebAPIApp.Model.pdb
+C:\D\SingaDemo\NCS\CustomerTeller.WebAPIApp\CustomerTeller.WebAPIApp.Core\obj\Debug\net5.0\CustomerTeller.WebAPIApp.Core.csproj.AssemblyReference.cache
+C:\D\SingaDemo\NCS\CustomerTeller.WebAPIApp\CustomerTeller.WebAPIApp.Core\obj\Debug\net5.0\CustomerTeller.WebAPIApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\D\SingaDemo\NCS\CustomerTeller.WebAPIApp\CustomerTeller.WebAPIApp.Core\obj\Debug\net5.0\CustomerTeller.WebAPIApp.Core.AssemblyInfoInputs.cache
+C:\D\SingaDemo\NCS\CustomerTeller.WebAPIApp\CustomerTeller.WebAPIApp.Core\obj\Debug\net5.0\CustomerTeller.WebAPIApp.Core.AssemblyInfo.cs
+C:\D\SingaDemo\NCS\CustomerTeller.WebAPIApp\CustomerTeller.WebAPIApp.Core\obj\Debug\net5.0\CustomerTeller.WebAPIApp.Core.csproj.CoreCompileInputs.cache
+C:\D\SingaDemo\NCS\CustomerTeller.WebAPIApp\CustomerTeller.WebAPIApp.Core\obj\Debug\net5.0\CustomerTeller.WebAPIApp.Core.csproj.CopyComplete
+C:\D\SingaDemo\NCS\CustomerTeller.WebAPIApp\CustomerTeller.WebAPIApp.Core\obj\Debug\net5.0\CustomerTeller.WebAPIApp.Core.dll
+C:\D\SingaDemo\NCS\CustomerTeller.WebAPIApp\CustomerTeller.WebAPIApp.Core\obj\Debug\net5.0\ref\CustomerTeller.WebAPIApp.Core.dll
+C:\D\SingaDemo\NCS\CustomerTeller.WebAPIApp\CustomerTeller.WebAPIApp.Core\obj\Debug\net5.0\CustomerTeller.WebAPIApp.Core.pdb

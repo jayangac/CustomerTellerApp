@@ -1,0 +1,346 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\D\\SingaDemo\\NCS\\CustomerTeller.WebAPIApp\\CustomerTeller.WebAPIApp.Business\\CustomerTeller.WebAPIApp.Business.csproj": {}
+  },
+  "projects": {
+    "C:\\D\\SingaDemo\\NCS\\CustomerTeller.WebAPIApp\\CustomerTeller.WebAPIApp.Business\\CustomerTeller.WebAPIApp.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\D\\SingaDemo\\NCS\\CustomerTeller.WebAPIApp\\CustomerTeller.WebAPIApp.Business\\CustomerTeller.WebAPIApp.Business.csproj",
+        "projectName": "CustomerTeller.WebAPIApp.Business",
+        "projectPath": "C:\\D\\SingaDemo\\NCS\\CustomerTeller.WebAPIApp\\CustomerTeller.WebAPIApp.Business\\CustomerTeller.WebAPIApp.Business.csproj",
+        "packagesPath": "C:\\Users\\jaych\\.nuget\\packages\\",
+        "outputPath": "C:\\D\\SingaDemo\\NCS\\CustomerTeller.WebAPIApp\\CustomerTeller.WebAPIApp.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jaych\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\D\\SingaDemo\\NCS\\CustomerTeller.WebAPIApp\\CustomerTeller.WebAPIApp.Core\\CustomerTeller.WebAPIApp.Core.csproj": {
+                "projectPath": "C:\\D\\SingaDemo\\NCS\\CustomerTeller.WebAPIApp\\CustomerTeller.WebAPIApp.Core\\CustomerTeller.WebAPIApp.Core.csproj"
+              },
+              "C:\\D\\SingaDemo\\NCS\\CustomerTeller.WebAPIApp\\CustomerTeller.WebAPIApp.Data\\CustomerTeller.WebAPIApp.Data.csproj": {
+                "projectPath": "C:\\D\\SingaDemo\\NCS\\CustomerTeller.WebAPIApp\\CustomerTeller.WebAPIApp.Data\\CustomerTeller.WebAPIApp.Data.csproj"
+              },
+              "C:\\D\\SingaDemo\\NCS\\CustomerTeller.WebAPIApp\\CustomerTeller.WebAPIApp.Model\\CustomerTeller.WebAPIApp.Model.csproj": {
+                "projectPath": "C:\\D\\SingaDemo\\NCS\\CustomerTeller.WebAPIApp\\CustomerTeller.WebAPIApp.Model\\CustomerTeller.WebAPIApp.Model.csproj"
+              },
+              "C:\\D\\SingaDemo\\NCS\\CustomerTeller.WebAPIApp\\CustomerTeller.WebAPIApp.Repository\\CustomerTeller.WebAPIApp.Repository.csproj": {
+                "projectPath": "C:\\D\\SingaDemo\\NCS\\CustomerTeller.WebAPIApp\\CustomerTeller.WebAPIApp.Repository\\CustomerTeller.WebAPIApp.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Realm": {
+              "target": "Package",
+              "version": "[10.11.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\D\\SingaDemo\\NCS\\CustomerTeller.WebAPIApp\\CustomerTeller.WebAPIApp.Core\\CustomerTeller.WebAPIApp.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\D\\SingaDemo\\NCS\\CustomerTeller.WebAPIApp\\CustomerTeller.WebAPIApp.Core\\CustomerTeller.WebAPIApp.Core.csproj",
+        "projectName": "CustomerTeller.WebAPIApp.Core",
+        "projectPath": "C:\\D\\SingaDemo\\NCS\\CustomerTeller.WebAPIApp\\CustomerTeller.WebAPIApp.Core\\CustomerTeller.WebAPIApp.Core.csproj",
+        "packagesPath": "C:\\Users\\jaych\\.nuget\\packages\\",
+        "outputPath": "C:\\D\\SingaDemo\\NCS\\CustomerTeller.WebAPIApp\\CustomerTeller.WebAPIApp.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jaych\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\D\\SingaDemo\\NCS\\CustomerTeller.WebAPIApp\\CustomerTeller.WebAPIApp.Data\\CustomerTeller.WebAPIApp.Data.csproj": {
+                "projectPath": "C:\\D\\SingaDemo\\NCS\\CustomerTeller.WebAPIApp\\CustomerTeller.WebAPIApp.Data\\CustomerTeller.WebAPIApp.Data.csproj"
+              },
+              "C:\\D\\SingaDemo\\NCS\\CustomerTeller.WebAPIApp\\CustomerTeller.WebAPIApp.Model\\CustomerTeller.WebAPIApp.Model.csproj": {
+                "projectPath": "C:\\D\\SingaDemo\\NCS\\CustomerTeller.WebAPIApp\\CustomerTeller.WebAPIApp.Model\\CustomerTeller.WebAPIApp.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[10.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\D\\SingaDemo\\NCS\\CustomerTeller.WebAPIApp\\CustomerTeller.WebAPIApp.Data\\CustomerTeller.WebAPIApp.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\D\\SingaDemo\\NCS\\CustomerTeller.WebAPIApp\\CustomerTeller.WebAPIApp.Data\\CustomerTeller.WebAPIApp.Data.csproj",
+        "projectName": "CustomerTeller.WebAPIApp.Data",
+        "projectPath": "C:\\D\\SingaDemo\\NCS\\CustomerTeller.WebAPIApp\\CustomerTeller.WebAPIApp.Data\\CustomerTeller.WebAPIApp.Data.csproj",
+        "packagesPath": "C:\\Users\\jaych\\.nuget\\packages\\",
+        "outputPath": "C:\\D\\SingaDemo\\NCS\\CustomerTeller.WebAPIApp\\CustomerTeller.WebAPIApp.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jaych\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\D\\SingaDemo\\NCS\\CustomerTeller.WebAPIApp\\CustomerTeller.WebAPIApp.Model\\CustomerTeller.WebAPIApp.Model.csproj": {
+                "projectPath": "C:\\D\\SingaDemo\\NCS\\CustomerTeller.WebAPIApp\\CustomerTeller.WebAPIApp.Model\\CustomerTeller.WebAPIApp.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\D\\SingaDemo\\NCS\\CustomerTeller.WebAPIApp\\CustomerTeller.WebAPIApp.Model\\CustomerTeller.WebAPIApp.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\D\\SingaDemo\\NCS\\CustomerTeller.WebAPIApp\\CustomerTeller.WebAPIApp.Model\\CustomerTeller.WebAPIApp.Model.csproj",
+        "projectName": "CustomerTeller.WebAPIApp.Model",
+        "projectPath": "C:\\D\\SingaDemo\\NCS\\CustomerTeller.WebAPIApp\\CustomerTeller.WebAPIApp.Model\\CustomerTeller.WebAPIApp.Model.csproj",
+        "packagesPath": "C:\\Users\\jaych\\.nuget\\packages\\",
+        "outputPath": "C:\\D\\SingaDemo\\NCS\\CustomerTeller.WebAPIApp\\CustomerTeller.WebAPIApp.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jaych\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNet.Mvc": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\D\\SingaDemo\\NCS\\CustomerTeller.WebAPIApp\\CustomerTeller.WebAPIApp.Repository\\CustomerTeller.WebAPIApp.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\D\\SingaDemo\\NCS\\CustomerTeller.WebAPIApp\\CustomerTeller.WebAPIApp.Repository\\CustomerTeller.WebAPIApp.Repository.csproj",
+        "projectName": "CustomerTeller.WebAPIApp.Repository",
+        "projectPath": "C:\\D\\SingaDemo\\NCS\\CustomerTeller.WebAPIApp\\CustomerTeller.WebAPIApp.Repository\\CustomerTeller.WebAPIApp.Repository.csproj",
+        "packagesPath": "C:\\Users\\jaych\\.nuget\\packages\\",
+        "outputPath": "C:\\D\\SingaDemo\\NCS\\CustomerTeller.WebAPIApp\\CustomerTeller.WebAPIApp.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jaych\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\D\\SingaDemo\\NCS\\CustomerTeller.WebAPIApp\\CustomerTeller.WebAPIApp.Data\\CustomerTeller.WebAPIApp.Data.csproj": {
+                "projectPath": "C:\\D\\SingaDemo\\NCS\\CustomerTeller.WebAPIApp\\CustomerTeller.WebAPIApp.Data\\CustomerTeller.WebAPIApp.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+C:\D\SingaDemo\NCS\CustomerTeller.WebAPIApp\CustomerTeller.WebAPIApp.Repository\bin\Debug\net5.0\CustomerTeller.WebAPIApp.Repository.deps.json
+C:\D\SingaDemo\NCS\CustomerTeller.WebAPIApp\CustomerTeller.WebAPIApp.Repository\bin\Debug\net5.0\CustomerTeller.WebAPIApp.Repository.dll
+C:\D\SingaDemo\NCS\CustomerTeller.WebAPIApp\CustomerTeller.WebAPIApp.Repository\bin\Debug\net5.0\ref\CustomerTeller.WebAPIApp.Repository.dll
+C:\D\SingaDemo\NCS\CustomerTeller.WebAPIApp\CustomerTeller.WebAPIApp.Repository\bin\Debug\net5.0\CustomerTeller.WebAPIApp.Repository.pdb
+C:\D\SingaDemo\NCS\CustomerTeller.WebAPIApp\CustomerTeller.WebAPIApp.Repository\bin\Debug\net5.0\CustomerTeller.WebAPIApp.Data.dll
+C:\D\SingaDemo\NCS\CustomerTeller.WebAPIApp\CustomerTeller.WebAPIApp.Repository\bin\Debug\net5.0\CustomerTeller.WebAPIApp.Model.dll
+C:\D\SingaDemo\NCS\CustomerTeller.WebAPIApp\CustomerTeller.WebAPIApp.Repository\bin\Debug\net5.0\CustomerTeller.WebAPIApp.Data.pdb
+C:\D\SingaDemo\NCS\CustomerTeller.WebAPIApp\CustomerTeller.WebAPIApp.Repository\bin\Debug\net5.0\CustomerTeller.WebAPIApp.Model.pdb
+C:\D\SingaDemo\NCS\CustomerTeller.WebAPIApp\CustomerTeller.WebAPIApp.Repository\obj\Debug\net5.0\CustomerTeller.WebAPIApp.Repository.csproj.AssemblyReference.cache
+C:\D\SingaDemo\NCS\CustomerTeller.WebAPIApp\CustomerTeller.WebAPIApp.Repository\obj\Debug\net5.0\CustomerTeller.WebAPIApp.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\D\SingaDemo\NCS\CustomerTeller.WebAPIApp\CustomerTeller.WebAPIApp.Repository\obj\Debug\net5.0\CustomerTeller.WebAPIApp.Repository.AssemblyInfoInputs.cache
+C:\D\SingaDemo\NCS\CustomerTeller.WebAPIApp\CustomerTeller.WebAPIApp.Repository\obj\Debug\net5.0\CustomerTeller.WebAPIApp.Repository.AssemblyInfo.cs
+C:\D\SingaDemo\NCS\CustomerTeller.WebAPIApp\CustomerTeller.WebAPIApp.Repository\obj\Debug\net5.0\CustomerTeller.WebAPIApp.Repository.csproj.CoreCompileInputs.cache
+C:\D\SingaDemo\NCS\CustomerTeller.WebAPIApp\CustomerTeller.WebAPIApp.Repository\obj\Debug\net5.0\CustomerTeller.WebAPIApp.Repository.csproj.CopyComplete
+C:\D\SingaDemo\NCS\CustomerTeller.WebAPIApp\CustomerTeller.WebAPIApp.Repository\obj\Debug\net5.0\CustomerTeller.WebAPIApp.Repository.dll
+C:\D\SingaDemo\NCS\CustomerTeller.WebAPIApp\CustomerTeller.WebAPIApp.Repository\obj\Debug\net5.0\ref\CustomerTeller.WebAPIApp.Repository.dll
+C:\D\SingaDemo\NCS\CustomerTeller.WebAPIApp\CustomerTeller.WebAPIApp.Repository\obj\Debug\net5.0\CustomerTeller.WebAPIApp.Repository.pdb
